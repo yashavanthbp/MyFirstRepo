@@ -1,3 +1,4 @@
 testing reset commit2
 
 this is a sample line having text2
+this is comparing 2

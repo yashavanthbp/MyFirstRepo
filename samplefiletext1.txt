@@ -1,1 +1,2 @@
 testing reset commit1
+this is comparing 1
