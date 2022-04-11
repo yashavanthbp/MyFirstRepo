@@ -1,1 +1,3 @@
-this is a sample file having text 2
+testing reset commit2
+
+this is a sample line having text2
