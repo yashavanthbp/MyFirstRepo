@@ -2,3 +2,4 @@ testing reset commit1
 this is comparing 1
 
 merging a branch 1
+this is used for git slash new fixturess
