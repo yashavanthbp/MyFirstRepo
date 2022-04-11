@@ -2,4 +2,8 @@ testing reset commit1
 this is comparing 1
 
 merging a branch 1
+<<<<<<< Updated upstream
 this is used for git slash new fixturess
+=======
+this is used for git slash
+>>>>>>> Stashed changes
